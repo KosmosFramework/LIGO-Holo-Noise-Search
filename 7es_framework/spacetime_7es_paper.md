@@ -1,6 +1,7 @@
 # Spacetime as Information Processor: A Systems-Theoretic Resolution of the Quantum Gravity Interface Problem
 
 **Authors:** Clinton Alden, Principal Theorist
+*Pre-print*
 
 **Abstract**
 
