@@ -14,3 +14,11 @@ Our methodology employs a novel, physically-derived transfer function for spacet
 **Null Result:** A non-detection would place the most stringent constraints to date on models of Planck-scale spacetime structure, guiding theoretical development.
 
 This proposal implements gold-standard open science practices: pre-registration, public code repository, simulated validation datasets, and Bayesian model comparison. We seek to answer a century-old question in fundamental physics using existing observational infrastructure, turning LIGO—already humanity's most sensitive measurement device—into a quantum gravity telescope.
+
+
+## License
+
+The written content, documentation, and reference materials in this repository are licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE).
+
+Copyright © 2025-2026 Clinton Alden / KOSMOS Institute of Systems Theory.
