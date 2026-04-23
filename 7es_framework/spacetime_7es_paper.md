@@ -180,8 +180,6 @@ Maldacena, J. (1997). The large N limit of superconformal field theories and sup
 
 Rovelli, C. (2004). *Quantum gravity*. Cambridge University Press.
 
-Smith, A., et al. (2024). The 7ES Framework: Universal systems architecture across 42 orders of magnitude. *Systems Theory Quarterly*, 45(3), 123-156.
-
 Susskind, L. (1995). The world as a hologram. *Journal of Mathematical Physics*, 36(11), 6377-6396.
 
 Verlinde, E. (2011). On the origin of gravity and the laws of Newton. *Journal of High Energy Physics*, 2011(4), 1-27.
