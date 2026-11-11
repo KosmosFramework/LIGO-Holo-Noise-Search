@@ -1,5 +1,5 @@
 7ES (Element Structure) Framework Reference File - Dimensional Modes Edition v1.0 
-The KOSMOS Institute of Systems Theory
+The KOSMOS Institute of Systems Theory 
 Principal Investigator: Clinton Alden
 Version: Dimensional Modes v1.0 - May 2026
 Base Framework: v2.0 (April 2026), Calculus v1.0 (April 2026)
