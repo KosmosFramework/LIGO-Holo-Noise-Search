@@ -1,4 +1,4 @@
-# 7ES Systems Relationship Dynamics Reference File  
+# 7ES Systems Relationship Dynamics Reference File   
 ## Astrophysical Phenomena Edition
 
 **The KOSMOS Institute of Systems Theory**  
