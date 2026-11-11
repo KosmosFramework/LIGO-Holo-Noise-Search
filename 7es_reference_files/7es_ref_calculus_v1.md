@@ -6,7 +6,7 @@ Version: Calculus v1.0 - April 2026
 Base Framework: v2.0 - April 2026  
 Previous Editions: v2.0 (April 2026), v1.3 (November 2025)
 
----
+--- 
 
 ## VERSION HISTORY
 
