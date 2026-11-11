@@ -1,4 +1,4 @@
-7ES (Element Structure) Framework Reference File - Dimensional Modes Edition v1.0
+7ES (Element Structure) Framework Reference File - Dimensional Modes Edition v1.0 
 The KOSMOS Institute of Systems Theory
 Principal Investigator: Clinton Alden
 Version: Dimensional Modes v1.0 - May 2026
