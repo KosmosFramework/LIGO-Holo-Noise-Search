@@ -1,4 +1,4 @@
-# 7ES (Element Structure) Framework Reference File v2.1
+# 7ES (Element Structure) Framework Reference File v2.1 
 
 **The KOSMOS Institute of Systems Theory**  
 **Principal Investigator:** Clinton Alden  
