@@ -1,8 +1,10 @@
 # The Black Hole Information Paradox as a Category Error
 
-Nov 6, 2026 · @Clinton
+Author: Clinton Alden, Principal Investigator
+Affiliation: The KOSMOS Institute of Systems Theory 
+Date: Nov. 6, 2026
+Status: Pre-Print
 
-Clinton Alden, Principal Investigator, The KOSMOS Institute of Systems Theory With Claude Opus 4.6 (Anthropic), AI Co-Author
 
 ## Abstract
 
